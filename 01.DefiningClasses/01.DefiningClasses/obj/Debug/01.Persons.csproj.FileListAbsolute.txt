@@ -1,0 +1,6 @@
+D:\OnCode\OOP C#\01. C\01.DefiningClasses\01.DefiningClasses\bin\Debug\01.DefiningClasses.exe.config
+D:\OnCode\OOP C#\01. C\01.DefiningClasses\01.DefiningClasses\bin\Debug\01.DefiningClasses.exe
+D:\OnCode\OOP C#\01. C\01.DefiningClasses\01.DefiningClasses\bin\Debug\01.DefiningClasses.pdb
+D:\OnCode\OOP C#\01. C\01.DefiningClasses\01.DefiningClasses\obj\Debug\01.Persons.csprojResolveAssemblyReference.cache
+D:\OnCode\OOP C#\01. C\01.DefiningClasses\01.DefiningClasses\obj\Debug\01.DefiningClasses.exe
+D:\OnCode\OOP C#\01. C\01.DefiningClasses\01.DefiningClasses\obj\Debug\01.DefiningClasses.pdb

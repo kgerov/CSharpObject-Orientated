@@ -1,0 +1,8 @@
+D:\OnCode\OOP C#\01. C\02.StaticMembersAndNamespaces\06.Namespaces\bin\Debug\06.Namespaces.exe.config
+D:\OnCode\OOP C#\01. C\02.StaticMembersAndNamespaces\06.Namespaces\obj\Debug\06.Geometry.csprojResolveAssemblyReference.cache
+D:\OnCode\OOP C#\01. C\02.StaticMembersAndNamespaces\06.Namespaces\obj\Debug\_06.Namespaces.Properties.Resources.resources
+D:\OnCode\OOP C#\01. C\02.StaticMembersAndNamespaces\06.Namespaces\obj\Debug\06.Geometry.csproj.GenerateResource.Cache
+D:\OnCode\OOP C#\01. C\02.StaticMembersAndNamespaces\06.Namespaces\bin\Debug\06.Namespaces.exe
+D:\OnCode\OOP C#\01. C\02.StaticMembersAndNamespaces\06.Namespaces\bin\Debug\06.Namespaces.pdb
+D:\OnCode\OOP C#\01. C\02.StaticMembersAndNamespaces\06.Namespaces\obj\Debug\06.Namespaces.exe
+D:\OnCode\OOP C#\01. C\02.StaticMembersAndNamespaces\06.Namespaces\obj\Debug\06.Namespaces.pdb

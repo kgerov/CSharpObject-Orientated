@@ -1,0 +1,6 @@
+D:\OnCode\OOP C#\01. C\01.DefiningClasses\02.LatopShop\bin\Debug\02.LatopShop.exe.config
+D:\OnCode\OOP C#\01. C\01.DefiningClasses\02.LatopShop\bin\Debug\02.LatopShop.exe
+D:\OnCode\OOP C#\01. C\01.DefiningClasses\02.LatopShop\bin\Debug\02.LatopShop.pdb
+D:\OnCode\OOP C#\01. C\01.DefiningClasses\02.LatopShop\obj\Debug\02.LatopShop.csprojResolveAssemblyReference.cache
+D:\OnCode\OOP C#\01. C\01.DefiningClasses\02.LatopShop\obj\Debug\02.LatopShop.exe
+D:\OnCode\OOP C#\01. C\01.DefiningClasses\02.LatopShop\obj\Debug\02.LatopShop.pdb

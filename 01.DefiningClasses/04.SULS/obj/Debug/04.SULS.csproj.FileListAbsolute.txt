@@ -1,0 +1,6 @@
+D:\OnCode\OOP C#\01. C\01.DefiningClasses\04.SULS\bin\Debug\04.SULS.exe.config
+D:\OnCode\OOP C#\01. C\01.DefiningClasses\04.SULS\bin\Debug\04.SULS.exe
+D:\OnCode\OOP C#\01. C\01.DefiningClasses\04.SULS\bin\Debug\04.SULS.pdb
+D:\OnCode\OOP C#\01. C\01.DefiningClasses\04.SULS\obj\Debug\04.SULS.csprojResolveAssemblyReference.cache
+D:\OnCode\OOP C#\01. C\01.DefiningClasses\04.SULS\obj\Debug\04.SULS.exe
+D:\OnCode\OOP C#\01. C\01.DefiningClasses\04.SULS\obj\Debug\04.SULS.pdb
