@@ -4,3 +4,6 @@ D:\OnCode\OOP C#\01. C\02.StaticMembersAndNamespaces\01.Point3D\bin\Debug\01.Poi
 D:\OnCode\OOP C#\01. C\02.StaticMembersAndNamespaces\01.Point3D\obj\Debug\01.Point3D.csprojResolveAssemblyReference.cache
 D:\OnCode\OOP C#\01. C\02.StaticMembersAndNamespaces\01.Point3D\obj\Debug\01.Point3D.exe
 D:\OnCode\OOP C#\01. C\02.StaticMembersAndNamespaces\01.Point3D\obj\Debug\01.Point3D.pdb
+D:\OnCode\OOP\CSharp\02.StaticMembersAndNamespaces\01.Point3D\bin\Debug\01.Point3D.exe.config
+D:\OnCode\OOP\CSharp\02.StaticMembersAndNamespaces\01.Point3D\obj\Debug\01.Point3D.exe
+D:\OnCode\OOP\CSharp\02.StaticMembersAndNamespaces\01.Point3D\obj\Debug\01.Point3D.pdb

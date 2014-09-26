@@ -13,12 +13,12 @@ namespace _05.BitArray
             BitArray t = new BitArray(100000);
 
             t[99999] = 1;
-            t[5432] = 1;
+            //t[5432] = 1;
 
-            for (int i = 0; i < 100000; i++)
-            {
-                t[i] = 1;
-            }
+            //for (int i = 0; i < 100000; i++)
+            //{
+            //    t[i] = 1;
+            //}
             Console.WriteLine(t);
         }
     }

@@ -4,3 +4,9 @@ D:\OnCode\OOP C#\01. C\02.StaticMembersAndNamespaces\05.BitArray\bin\Debug\05.Bi
 D:\OnCode\OOP C#\01. C\02.StaticMembersAndNamespaces\05.BitArray\obj\Debug\05.BitArray.csprojResolveAssemblyReference.cache
 D:\OnCode\OOP C#\01. C\02.StaticMembersAndNamespaces\05.BitArray\obj\Debug\05.BitArray.exe
 D:\OnCode\OOP C#\01. C\02.StaticMembersAndNamespaces\05.BitArray\obj\Debug\05.BitArray.pdb
+D:\OnCode\OOP\CSharp\02.StaticMembersAndNamespaces\05.BitArray\bin\Debug\05.BitArray.exe.config
+D:\OnCode\OOP\CSharp\02.StaticMembersAndNamespaces\05.BitArray\obj\Debug\05.BitArray.exe
+D:\OnCode\OOP\CSharp\02.StaticMembersAndNamespaces\05.BitArray\obj\Debug\05.BitArray.pdb
+D:\OnCode\OOP\CSharp\02.StaticMembersAndNamespaces\05.BitArray\bin\Debug\05.BitArray.exe
+D:\OnCode\OOP\CSharp\02.StaticMembersAndNamespaces\05.BitArray\bin\Debug\05.BitArray.pdb
+D:\OnCode\OOP\CSharp\02.StaticMembersAndNamespaces\05.BitArray\obj\Debug\05.BitArray.csprojResolveAssemblyReference.cache
